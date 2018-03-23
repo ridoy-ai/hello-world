@@ -1,4 +1,4 @@
-# hello-world
+# hello-GIT
 A test repository for practicing basic git commands.
 
 Hello friends,
